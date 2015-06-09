@@ -1,1 +1,4 @@
-asd.txt
+node_modules
+bower_components
+dist
+bespoke-theme-*
