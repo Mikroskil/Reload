@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> cebc3ba7a311fb27a75538e8f85830d00646e6c3
 # Hello World
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
@@ -19,9 +15,3 @@ Then, install dependencies and run the preview server:
 $ npm install && bower install
 $ gulp serve
 ```
-<<<<<<< HEAD
-=======
-=======
-#Reload
->>>>>>> c12537f7ff04fbecb3b8af5850369b1620e0d1ed
->>>>>>> cebc3ba7a311fb27a75538e8f85830d00646e6c3

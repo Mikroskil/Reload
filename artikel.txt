@@ -1,0 +1,12 @@
+Auto parking system
+
+An automated (car) parking system (APS) is a mechanical system designed to minimize the area and/or volume required for parking cars. Like a multi-story parking garage, an APS provides parking for cars on multiple levels stacked vertically to maximize the number of parking spaces while minimizing land usage. The APS, however, utilizes a mechanical system to transport cars to and from parking spaces (rather than the driver) in order to eliminate much of the space wasted in a multi-story parking garage.[1] While a multi-story parking garage is similar to multiple parking lots stacked vertically, an APS is more similar to an automated storage and retrieval system for cars.[1] The paternoster (shown animated at the right) is an example of one of the earliest and most common types of APS.[2]
+
+APS are generically known by a variety of names, including:
+
+Automatic parking system (not to be confused with in-car parking guidance systems)
+Automated parking facility (APF)
+Automated vehicle storage & retrieval system (AVSRS)
+Car parking system
+Mechanical parking
+Robotic parking garage
