@@ -1,5 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "presentation-hello-world",
+=======
+<<<<<<< HEAD
+  "name": "presentation-hello-world",
+=======
+  "name": "Reload",
+>>>>>>> c12537f7ff04fbecb3b8af5850369b1620e0d1ed
+>>>>>>> cebc3ba7a311fb27a75538e8f85830d00646e6c3
   "version": "0.0.0",
   "dependencies": {
     "prism": "gh-pages"
